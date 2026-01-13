@@ -1,0 +1,7 @@
+.roblox img{
+    object-position: center;
+    object-fit: cover;
+    width: 600px;
+    height: 600px;
+    margin-left: 500px
+}
